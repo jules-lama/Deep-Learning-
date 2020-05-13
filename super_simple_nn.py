@@ -14,7 +14,7 @@ import load_data
 import matplotlib.pyplot as plt
 import os
 
-#importing data
+#importing data (complete)
 train_data, train_labels = load_data.get_data_and_labels()
 test_data, test_labels = load_data.get_data_and_labels_test()
 
