@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Rabah Oumessaoud
+@author: LAMA GRAIH JULES
 """
 
 #handling the imports
